@@ -57,6 +57,4 @@ Acessar o servidor em http://localhost:8000
     php artisan migrate
     php artisan serve
 
-Link da documentação no Postman
-
-    https://documenter.getpostman.com/view/16262620/TzeWGTqh
+Link da documentação no Postman https://documenter.getpostman.com/view/16262620/TzeWGTqh
